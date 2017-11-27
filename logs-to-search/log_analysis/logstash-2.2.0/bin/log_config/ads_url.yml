@@ -1,0 +1,5 @@
+^.*pagesjaunes.fr/stat.*$: ads
+^.*dailymotion.com/widget_chunks.*$: ads
+^.*dailymotion.com/logger.*$: ads
+^.*dailymotion.com/json.*$: ads
+
